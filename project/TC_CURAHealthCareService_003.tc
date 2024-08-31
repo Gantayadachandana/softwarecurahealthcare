@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_CURAHealthCareService_003</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>04da6f24-6905-4e42-8870-90dbe2dfa11c</testCaseGuid>
-</TestCaseEntity>
